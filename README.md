@@ -24,11 +24,11 @@ Perhaps a download of VisualStudio Code could go a long ways when looking at thi
 
 ### Installation
 
-1. Get a link to the repo[https://example.com](https://example.com)
+1. Get a link to the repo[git@github.com:ashsaidhi99/JavaScript-Password-Generator.git](git@github.com:ashsaidhi99/JavaScript-Password-Generator.git)
 2. Clone the repo
-
-git clone https://github.com/your_username_/Project-Name.git
-
+```sh
+git clone git@github.com:ashsaidhi99/JavaScript-Password-Generator.git
+```
 3. Install repo
 
 4. Open the repo
