@@ -46,6 +46,6 @@ This project was created for the purpose of passing a certain class that I have 
 ## 📫 Contact
 twitter - [@cydica](https://twitter.com/cydica_) 
 
-email - [ash_torres](ashsaidhi99@gmail.com)
-
 Project Link: [https://github.com/ashsaidhi99/JavaScript-Password-Generator](https://github.com/ashsaidhi99/JavaScript-Password-Generator)
+
+email - ashsaidhi99@gmail.com
